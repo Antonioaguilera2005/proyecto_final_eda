@@ -72,3 +72,18 @@ Agregar más supermercados y APIs.
 Integrar autenticación de usuarios para guardar listas de compras personalizadas.
 Mejorar la interfaz de usuario con herramientas como Bootstrap o React.
 Implementar una API REST para consultar resultados directamente desde otras aplicaciones.
+
+
+¿Por qué hice este proyecto?
+Decidí desarrollar este proyecto porque quería resolver un problema cotidiano que afecta a muchas personas: la necesidad de comparar precios entre supermercados para ahorrar tiempo y dinero.
+
+Mi objetivo principal era crear una herramienta funcional que no solo fuese útil para los usuarios, sino que también demostrara mis habilidades técnicas y mi capacidad para integrar distintas tecnologías. Además, quería afrontar el reto de construir un sistema que combinara APIs, bases de datos, interfaces web y algoritmos de ordenación de manera eficiente y coherente.
+
+Este proyecto me permitió:
+
+Abordar un problema práctico: Optimizar las compras diarias facilitando la comparación de precios de productos entre diferentes supermercados.
+Desarrollar una solución integral: Desde la recolección de datos hasta la presentación en una interfaz amigable, trabajé para que todo el flujo fuera funcional y claro.
+Aplicar y mejorar mis conocimientos: Trabajé con Flask para construir las APIs, algoritmos de ordenación como Merge Sort para organizar los resultados y HTML/CSS para la interfaz web.
+Quise que este proyecto no solo mostrara mis capacidades técnicas, sino que también reflejara mi interés por hacer que la tecnología sea útil y accesible en situaciones cotidianas. Fue una experiencia muy enriquecedora que me permitió enfrentarme a problemas reales y aprender a resolverlos de forma estructurada y creativa.
+
+En definitiva, creo que este proyecto es una muestra de cómo la informática puede simplificar y optimizar las tareas diarias, y estoy muy satisfecho con el resultado. 😊
