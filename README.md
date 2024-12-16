@@ -37,7 +37,7 @@ Ejecutar las APIs de los supermercados
 
 Ejecuta el script run_all.py para iniciar las tres APIs:
 
-Ejecuta el script app.py para iniciar la lista de la compra
+Ejecuta el script app.py para iniciar la lista de la compra, de ser imposible correr con run and debug.
 
 Navegar en la aplicación
 
