@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comparar precios</title>
+</head>
+<body>
+    <h1>Resultados de la Comparación</h1>
+    <table border="1">
+        <tr>
+            <th>Producto</th>
+            <th>Mercadona</th>
+            <th>Carrefour</th>
+            <th>LDL</th>
+        </tr>
+        {% for resultado in resultados %}
+            <tr>
+                <td>{{ resultado.producto }}</td>
+                <td>{{ resultado.mercadona }}</td>
+                <td>{{ resultado.carrefour }}</td>
+                <td>{{ resultado.ldl }}</td>
+            </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>

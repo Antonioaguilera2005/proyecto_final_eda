@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Selecciona productos</title>
+</head>
+<body>
+    <h1>Selecciona los productos que necesitas</h1>
+    <form method="POST">
+        {% for producto in productos %}
+            <input type="checkbox" name="producto" value="{{ producto }}"> {{ producto }}<br>
+        {% endfor %}
+        <button type="submit">Comparar Precios</button>
+    </form>
+</body>
+</html>
